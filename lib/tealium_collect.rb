@@ -24,7 +24,7 @@ class TealiumCollect
   def checkRequestResponse(response)
     case response
     when Net::HTTPOK
-      puts "Data sent to Tealum: " + response.message
+      puts "Data sent to Tealium: " + response.message
 
     else
       puts "Error sending data: " + response.message

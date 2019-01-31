@@ -13,7 +13,7 @@ For full documentation on Tealium HTTP API, please see the Tealium Learning Comm
 Install the `tealium` gem:
 
 ```
-$ gem install tealium-1.0.0.gem
+$ gem install tealium
 ```
 
 Import the Tealium package:
