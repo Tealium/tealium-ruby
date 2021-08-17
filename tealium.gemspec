@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "tealium"
-  s.version = "1.0.1"
+  s.version = "1.0.2"
 
   s.authors = ["Tealium"]
   s.date = %q{2019-01-31}
