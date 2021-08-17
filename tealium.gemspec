@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.homepage    =
     'https://github.com/Tealium/tealium-ruby'
   s.license       = 'MIT'
-  s.required_ruby_version = '2.3.4'
+  s.required_ruby_version = '>= 2.3.4'
 end
