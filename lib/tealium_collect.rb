@@ -4,7 +4,7 @@ require 'json'
 
 class TealiumCollect
   LIBRARY_NAME = "ruby"
-  LIBRARY_VERSION = "1.0.2"
+  LIBRARY_VERSION = "1.0.3"
 
   def self.collect(payload)
     uri = URI.parse("https://collect.tealiumiq.com/event")
